@@ -37,13 +37,13 @@ export default defineConfig({
 
     projects: [
         {
-            name: 'chrome',
+            name: 'chromium',
             use: {
 
                 browserName: 'chromium',
                 screenshot: 'only-on-failure',
                 video: 'retain-on-failure',
-                headless: false
+                headless: true
                 //viewport: { width: 1280, height: 720 },
                 
             }
@@ -62,7 +62,7 @@ export default defineConfig({
             {
                 browserName: 'webkit',
                 screenshot: 'only-on-failure',
-                headless: false,
+                headless: true,
                 video: 'retain-on-failure',
                 viewport: { width: 1920, height: 1080 }
               //  ...devices['iphonee 11'],

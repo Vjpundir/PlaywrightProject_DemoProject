@@ -43,7 +43,7 @@ export default defineConfig({
       browserName: 'chromium',
       screenshot : 'on',
    // video: 'retain-on-failure',
-      headless: false,
+      headless: true,
    // viewport: { width: 720, height: 1080 },
      
     }
