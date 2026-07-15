@@ -5,7 +5,7 @@ const { ProductPage } = require('../pageObjects/ProductPage');
 const { ShippingPage } = require('../pageObjects/ShippingPage');
 const dataSet = JSON.parse(JSON.stringify(require('../utils/shippingDetails.json')));
 
-// Common setup before each test by
+// Common setup before each test by okay got it
 
 test.beforeEach(async ({ page }) => {
     const loginPage = new LoginPage(page);
