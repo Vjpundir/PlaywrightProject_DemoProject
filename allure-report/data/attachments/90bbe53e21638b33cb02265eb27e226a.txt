@@ -1,0 +1,20 @@
+=== Step 1: Verify Dashboard Page ===
+Dashboard page title: Nova Retail
+=== Step 2: Search for Product ===
+Product menu has been clicked successfully
+Product page title is : Storefront
+=== Step 3: Search Product and Add to Cart ===
+Product has been added to cart successfully
+=== Step 4: View Cart ===
+Cart page title is : Your cart
+=== Step 5: Proceed to Checkout ===
+Checkout button is enabled: true
+Checkout button has been clicked successfully
+Checkout page subtitle is : Orders are submitted to the backend API and stored in the database.
+=== Step 6: Fill Shipping Details ===
+Shipping section found: Shipping
+Shipping details have been filled successfully
+=== Step 7: Confirm Order ===
+Pay order button has been clicked successfully
+Confirmed order message is : Order cmr9fpcft0001d91tzs7udaum confirmed.
+=== Order Purchase Complete ===
