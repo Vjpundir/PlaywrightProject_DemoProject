@@ -3,5 +3,6 @@
     "address": "Sector 14 Gurgaon",
     "city": "Gurgaon",
     "state" : "haryana",
-    "postal": "123456780"
+    "postal": "123456780",
+    "country" : "India"
 }
